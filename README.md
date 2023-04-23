@@ -106,3 +106,6 @@ print(timer)
 ### Evidencias:
 
 
+
+## 📁 Este es el desarrollo del reto 8 en su totalidad, espero les sirva en su camino al aprendizaje!!!
+¡¡ Vamos Manchester City!! 1️⃣1️⃣1️⃣1️⃣1️⃣1️⃣1️⃣ Este será tu año de oro!!!
