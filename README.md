@@ -16,7 +16,11 @@
 ### CODIGO:
 
 ```ruby
-
+# Ejercicio 2
+if __name__ == "__main__":
+  a = int(input("Ingrese valor de X: "))
+  suma = (lambda x : x / (x**(1/3)-1))(a)
+  print("La funcion para cuando X vale " + str(a) + ", Y vale " + str(suma))
 ```
 
 
