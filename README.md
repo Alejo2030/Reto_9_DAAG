@@ -6,7 +6,22 @@
 ### CODIGO :
 
 ```ruby
+#Ejercicio 1
+def calcular_mcd(num1, num2):
+    # Calcular el MCD utilizando el algoritmo de Euclides
+    a, b = max(num1, num2), min(num1, num2)
+    while b > 0:
+        a, b = b, a % b
+    
+    # Mostrar el resultado del cálculo del MCD
+    print(f"El Maximo comun divisor  de {num1} y {num2} es {a}")
 
+# Solicitar al usuario que ingrese los números para los cuales se desea calcular el MCD
+num1 = int(input("Ingrese el primer número: "))
+num2 = int(input("Ingrese el segundo número: "))
+
+# Calcular el MCD y mostrar el resultado
+calcular_mcd(num1, num2)
 ```
 
 ## :dart: 2. Cree una función anónima que calcule:
