@@ -108,4 +108,4 @@ print(timer)
 
 
 ## 📁 Este es el desarrollo del reto 8 en su totalidad, espero les sirva en su camino al aprendizaje!!!
-¡¡ Vamos Manchester City!! 1️⃣1️⃣1️⃣1️⃣1️⃣1️⃣1️⃣ Este será tu año de oro!!!
+## ¡¡ Vamos Manchester City!! 1️⃣1️⃣1️⃣1️⃣1️⃣1️⃣1️⃣ Este será tu año de oro!!! :large_blue_circle: :white_circle:  :large_blue_circle: :white_circle:  :large_blue_circle:   :large_blue_circle: :white_circle: :large_blue_circle: :white_circle:
