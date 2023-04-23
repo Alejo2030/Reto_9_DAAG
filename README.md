@@ -280,6 +280,9 @@ print(timer)
 ### Evidencias:
 
 
+[![Captura-de-pantalla-2023-04-23-174153.png](https://i.postimg.cc/QdNtYwyL/Captura-de-pantalla-2023-04-23-174153.png)](https://postimg.cc/jL9tLgTv)
+
+
 
 
 ### :trumpet: 6.Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalon. Dejar enlace en el repo.
