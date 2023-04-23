@@ -10,6 +10,7 @@
 ```
 
 ## :dart: 2. Cree una función anónima que calcule:
+###                         $$f(x) = \frac{x}{x^{1/3}-1}$$
 
 
 ### CODIGO:
