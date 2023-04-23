@@ -30,7 +30,24 @@ if __name__ == "__main__":
 
 
 ```ruby
-
+# Ejercicio 4
+def comparar_numeros():
+     #Ingresar los números y el modo deseado
+    num1 = float(input("Ingrese el primer número: "))
+    num2 = float(input("Ingrese el segundo número: "))
+    modo = input("Ingrese el modo ('mayor' o 'menor'): ").lower()
+    
+    # Verificar el modo ingresado y devolver el número mayor o menor según corresponda
+    if modo == "mayor":
+        resultado = max(num1, num2)
+    elif modo == "menor":
+        resultado = min(num1, num2)
+    else:
+        # Si se ingresa un modo no válido, lanzar una excepción
+        raise ValueError("Modo no válido. Use 'mayor' o 'menor'.")
+    
+    # Mostrar el resultado de la función
+    print(f"El {modo} número es: {resultado}")
 ```
 
 ## Desarrollo Reto 9
