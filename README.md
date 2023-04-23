@@ -42,18 +42,7 @@
 
 
 
-### :trumpet: 2.
-
-### :memo: CODIGO:
-
-
-```ruby
-
-```
-
-
-### :trumpet: 3.
-
+### :trumpet: 2. De los retos anteriores seleciones 3 funciones y escribalas con argumentos no definidos (*args)
 
 
 ### :memo: CODIGO:
@@ -64,19 +53,9 @@
 ```
 
 
-
-### :trumpet: 4.
-
-
-### :memo: CODIGO:
+### :trumpet: 3. Escriba una función recursiva para calcular la operación de la potencia.
 
 
-```ruby
-
-```
-
-
-### :trumpet: 5.
 
 
 ### :memo: CODIGO:
@@ -87,7 +66,20 @@
 ```
 
 
-### :trumpet: 6.
+
+### :trumpet: 4.Utilice la siguiente plantilla de code para contar el tiempo: 
+
+```ruby
+import time
+
+start_time = time.time()
+# instrucciones sobre las cuales se quiere medir tiempo de ejecución
+end_time = time.time()
+
+timer = end_time - start_time
+print(timer)
+```
+
 
 ### :memo: CODIGO:
 
@@ -96,5 +88,18 @@
 
 ```
 
+
+### :trumpet: 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
+
+
+### Evidencias:
+
+
+
+
+### :trumpet: 6.Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalon. Dejar enlace en el repo.
+
+
+### Evidencias:
 
 
