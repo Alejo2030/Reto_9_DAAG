@@ -81,6 +81,9 @@ print(timer)
 ```
 
 
+#### Realice pruebas para calcular fibonacci con iteración o con recursión. Determine desde que número de la serie la diferencia de tiempo se vuelve significativa. Importante: Revisar este hilo.
+
+
 ### :memo: CODIGO:
 
 
