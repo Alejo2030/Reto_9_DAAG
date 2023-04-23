@@ -3,7 +3,7 @@
 ### Ejercicios 
 ## :dart: 1. Cree una función que permita calcular el Máximo Comun Divisor de dos números dados (a y b).
 
-### CODIGO :
+###  :unlock: CODIGO :
 
 ```ruby
 #Ejercicio 1
@@ -28,7 +28,7 @@ calcular_mcd(num1, num2)
 ###                         $$f(x) = \frac{x}{x^{1/3}-1}$$
 
 
-### CODIGO:
+### :unlock: CODIGO:
 
 ```ruby
 # Ejercicio 2
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 ## :dart: 4.Cree una función que reciba dos números y un parametro con el cual se decida si regresa el mayor o el menor, por defecto debe regresar el mayor.
 
-### CODIGO:
+### :unlock: CODIGO:
 
 
 ```ruby
@@ -319,7 +319,7 @@ else:
 ### :trumpet: 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
 
-### Evidencias:
+###  :camera: Evidencias: :camera:
 
 
 [![Captura-de-pantalla-2023-04-23-174153.png](https://i.postimg.cc/QdNtYwyL/Captura-de-pantalla-2023-04-23-174153.png)](https://postimg.cc/jL9tLgTv)
@@ -330,7 +330,7 @@ else:
 ### :trumpet: 6.Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalon. Dejar enlace en el repo.
 
 
-### Evidencias:
+### :camera: Evidencias: :camera:
 
 
 https://www.linkedin.com/in/daniel-alejandro-archila-gomez-201a0a273/
