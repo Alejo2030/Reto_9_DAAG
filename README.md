@@ -74,6 +74,49 @@ def comparar_numeros():
 
 
 ```ruby
+#1. Reto 9
+G = 6.67384e-11 #Establecer la constante G
+
+fuerza_gravedad_entre_dos_objetos = lambda masa1, masa2, distancia: G * (masa1 * masa2) / distancia**2 #Establecer la función Lambda
+
+if __name__ == "__main__":
+    m1 = float(input("Ingrese la masa en Kilogramos del primer objeto: ")) #Ingresar los valores 
+    m2 = float(input("Ingrese la masa en Kilogramos del segundo objeto: ")) #Ingresar los valores 
+    d = float(input("Ingrese la distancia en metros que los separa: ")) #Ingresar los valores 
+
+    fuerza_gravedad = fuerza_gravedad_entre_dos_objetos(m1, m2, d) # Calcular la fuerza de gravedad entre dos objetos 
+
+    print("La fuerza de gravedad entre los dos objetos es:", fuerza_gravedad, "Newtons") #Imprimir el resultado
+```
+
+```ruby
+#1. Reto 9
+
+import math
+
+# Función lambda para calcular el volumen de la figura
+hallar_volumen_figura = lambda r1, r2, h: (r2**2*h*math.pi)/3 + (r1*3*4*math.pi)/3
+
+# Función lambda para calcular el área de la figura
+hallar_area_de_la_figura = lambda r1, r2, h: (r1*2*4*math.pi) + (r2*math.pi)*(r2+(r2**2+h**2)**(1/2))
+
+if __name__ == "__main__":
+    # Ingresar valores 
+    r1 = float(input("Ingrese el radio de la esfera que va a utilizar en centimetros: "))
+    r2 = float(input("Ingrese el radio del cono que va a utilizar en centimetros: "))
+    h = float(input("Ingrese la altura del cono que va a utilizar en centimetros: "))
+
+    # Calcular el volumen y el área de la figura usando las funciones lambda
+    volumen_figura =  hallar_volumen_figura(r1,r2,h)
+    area_figura =   hallar_area_de_la_figura(r1,r2,h) 
+
+    # Imprimir los resultados
+    print("El volumen de la figura es " + str(volumen_figura) + " cm^3") 
+    print("El area de la figura es " + str(area_figura) * " cm^2")
+
+```
+
+```ruby
 
 ```
 
